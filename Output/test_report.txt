@@ -1,0 +1,11 @@
+DATA-DRIVEN TEST REPORT
+-----------------------------------
+
+Login Test : PASS
+Signup Test : FAIL
+Payment Test : PASS
+Search Test : PASS
+Logout Test : FAIL
+
+Passed Tests : 3
+Failed Tests : 2
