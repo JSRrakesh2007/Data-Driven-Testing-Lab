@@ -1,0 +1,6 @@
+Test Case,Expected Result,Actual Result
+Login Test,Pass,Pass
+Signup Test,Pass,Fail
+Payment Test,Pass,Pass
+Search Test,Pass,Pass
+Logout Test,Pass,Fail
